@@ -55,7 +55,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template1.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 1</p>
-                                    <a href="<?= base_url() ?>template/template1" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -64,7 +64,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template2.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 2</p>
-                                    <a href="<?= base_url() ?>template/template2" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -73,7 +73,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template3.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 3</p>
-                                    <a href="<?= base_url() ?>template/template3" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -82,7 +82,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template4.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 4</p>
-                                    <a href="<?= base_url() ?>template/template4" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -91,7 +91,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template5.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 5</p>
-                                    <a href="<?= base_url() ?>template/template5" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -100,7 +100,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template6.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 6</p>
-                                    <a href="<?= base_url() ?>template/template6" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -109,7 +109,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template7.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 7</p>
-                                    <a href="<?= base_url() ?>template/template7" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -118,7 +118,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template8.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 8</p>
-                                    <a href="<?= base_url() ?>template/template8" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -127,7 +127,7 @@
                                         <img class="img-fluid" src="<?= base_url() ?>assets/images/prev_template9.png" alt="">
                                     </a>
                                     <p class="demo-title">Template 9</p>
-                                    <a href="<?= base_url() ?>template/template8" class="demo-link" target="_blank">Live Preview</a>
+                                    <a href="<?= base_url() ?>form" class="demo-link" target="_blank">Pick this Template</a>
                                 </div>
                             </div>
                         </div>
