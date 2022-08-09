@@ -11,13 +11,13 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav mlt-auto my-2 my-lg-0">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#page-top">Home</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#demos">Demos</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dashboard">Organisation Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dashboard">Choose Template</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#demos">Demos</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#inner-pages">Inner Pages</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#features">Features</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#features">Features</a></li> -->
                 </ul>
             </div>
-            <a class="buy_btn" href="https://themeforest.net/item/barren-simple-online-event-ticketing-system-html-template/37711743" target="_blank">Purchase Now</a>
+            <!-- <a class="buy_btn" href="https://themeforest.net/item/barren-simple-online-event-ticketing-system-html-template/37711743" target="_blank">Purchase Now</a> -->
         </div>
     </nav>
 
@@ -38,12 +38,12 @@
             </div>
         </div>
     </header>
-    <section class="dashboard-demos" id="dashboard">
+    <section class="dashboard-demos" id="dashboard" style="background-color: whitesmoke;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section_title">
-                        <h2 class="color-white">Choose Your Template!</h2>
+                        <h2 class="color-black">Choose Your Template!</h2>
                     </div>
                 </div>
                 <div class="col-md-12">

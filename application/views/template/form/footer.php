@@ -69,7 +69,7 @@
     </div>
 </footer>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="<?= base_url('assets/js/form/email-decode.min.js')?>"></script>
 <script src="<?= base_url('assets/js/form/jquery-3.6.0.min.js') ?>"></script>
 <script src="<?= base_url('assets/js/form/bootstrap.bundle.min.js') ?>"></script>
 <script src="<?= base_url('assets/js/form/owl.carousel.js') ?>"></script>
